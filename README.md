@@ -1,1 +1,2 @@
 # Finlatics-Internship-Files
+<p>During my internship at Finlatics, I developed my skills in data analysis and machine learning using Python. I worked on various projects that involved data cleaning, exploratory data analysis, and the application of machine learning algorithms to derive actionable insights. This experience allowed me to deepen my understanding of data science principles and enhance my proficiency in Python, enabling me to tackle real-world data challenges effectively.</p>
